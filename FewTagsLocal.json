@@ -4,7 +4,7 @@
       "id": 1,
       "UserID": "usr_f7ea985b-cd21-42a6-a9ac-868754938745",
       "Tag": [
-        "<b>VHP Admin</b>"
+        "<color=#a855f7>VHP Admin</color>"
       ],
       "PlateBigText": "",
       "Malicious": false,
@@ -13,7 +13,7 @@
       "BigTextActive": false,
       "Size": "",
       "dateAdded": "2026-07-12 04:47:15 PM",
-      "dateUpdated": "2026-07-12 04:48:14 PM",
+      "dateUpdated": "2026-07-12 05:02:24 PM",
       "DisplayName": "The Watcher",
       "PreviousDisplayNames": []
     },
@@ -21,7 +21,7 @@
       "id": 2,
       "UserID": "usr_15aad375-af8d-42dd-a8b7-b466b150297b",
       "Tag": [
-        "<b>VHP Owner</b>"
+        "<color=#a855f7>VHP Owner</color>"
       ],
       "PlateBigText": "",
       "Malicious": false,
@@ -30,8 +30,25 @@
       "BigTextActive": false,
       "Size": "",
       "dateAdded": "2026-07-12 04:47:46 PM",
-      "dateUpdated": "2026-07-12 04:48:47 PM",
+      "dateUpdated": "2026-07-12 05:02:52 PM",
       "DisplayName": "OpenXR",
+      "PreviousDisplayNames": []
+    },
+    {
+      "id": 3,
+      "UserID": "usr_16c3d7fe-8d9b-4c5c-8d21-9dfcae1e95be",
+      "Tag": [
+        "<color=#ff0000>Lesbian Sex</color>"
+      ],
+      "PlateBigText": "",
+      "Malicious": true,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "",
+      "dateAdded": "2026-07-12 05:04:43 PM",
+      "dateUpdated": "2026-07-12 05:05:39 PM",
+      "DisplayName": "",
       "PreviousDisplayNames": []
     }
   ]
