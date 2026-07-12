@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "UserID": "usr_8b1af362-960b-4079-8ae9-4a9d1b27d8b3",
+      "Tag": [
+        "Dirty Fucking Black Nigger",
+        "<color=#ff0000>Basically a Fucking retard</color>"
+      ],
+      "PlateBigText": "",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "",
+      "dateAdded": "2026-07-09 12:12:21 PM",
+      "dateUpdated": "2026-07-09 06:17:20 PM",
+      "DisplayName": "",
+      "PreviousDisplayNames": []
+    },
+    {
+      "id": 2,
+      "UserID": "usr_72ebdfc7-b1cf-4136-8af9-147057ab35f6",
+      "Tag": [
+        "<color=#ff0000>Vore enjoyer/Freak ass nigga</color>"
+      ],
+      "PlateBigText": "",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "",
+      "dateAdded": "2026-07-09 06:06:44 PM",
+      "dateUpdated": "2026-07-09 06:06:44 PM",
+      "DisplayName": "",
+      "PreviousDisplayNames": []
+    },
+    {
+      "id": 3,
+      "UserID": "usr_aeaa850a-fad8-489c-ba9a-b2a299f54162",
+      "Tag": [
+        "<color=#ff0000>John Bad Microphone</color>",
+        "<color=#00FFFF>Male_07</color>"
+      ],
+      "PlateBigText": "",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "",
+      "dateAdded": "2026-07-10 11:35:32 AM",
+      "dateUpdated": "2026-07-10 11:37:42 AM",
+      "DisplayName": "",
+      "PreviousDisplayNames": []
+    },
+    {
+      "id": 4,
+      "UserID": "usr_fa93de26-d24e-4010-a173-c1302444efc9",
+      "Tag": [
+        ".Jump.<b><color=#00FFFF>Furture Diddy</color></b>"
+      ],
+      "PlateBigText": "",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": false,
+      "Size": "",
+      "dateAdded": "2026-07-11 12:07:29 AM",
+      "dateUpdated": "2026-07-11 12:07:29 AM",
+      "DisplayName": "",
+      "PreviousDisplayNames": []
+    }
+  ]
+}
