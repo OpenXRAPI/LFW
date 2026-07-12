@@ -4,7 +4,7 @@
       "id": 1,
       "UserID": "usr_f7ea985b-cd21-42a6-a9ac-868754938745",
       "Tag": [
-        ".AnimatedPrefix.<b>VHP Admin</b>"
+        "<b>VHP Admin</b>"
       ],
       "PlateBigText": "",
       "Malicious": false,
@@ -21,7 +21,7 @@
       "id": 2,
       "UserID": "usr_15aad375-af8d-42dd-a8b7-b466b150297b",
       "Tag": [
-        ".AnimatedPrefix.<b>VHP Owner</b>"
+        "<b>VHP Owner</b>"
       ],
       "PlateBigText": "",
       "Malicious": false,
